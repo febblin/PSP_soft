@@ -1,0 +1,8 @@
+ms0:/seplugins/hud.prx 0
+ms0:/seplugins/usbhostfs.prx 0
+ms0:/seplugins/psplink.prx 0
+ms0:/seplugins/MeMeplugin.prx 0
+ms0:/seplugins/capture.prx 0
+ms0:/seplugins/mp3play.prx 0
+ms0:/seplugins/RemoteJoyLite.prx 0
+ms0:/seplugins/OverClockPlugin.prx 1
